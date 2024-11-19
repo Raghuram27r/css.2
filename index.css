@@ -1,0 +1,6 @@
+.continers{
+    display: none;
+}
+.check:active + .continers{
+display: block;
+}
